@@ -1,1 +1,0 @@
-Install-ChocolateyPackage 'StExBar' 'msi' '/quiet' '{{DownloadUrl}}' '{{DownloadUrlx64}}' 
